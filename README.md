@@ -10,7 +10,7 @@ cs143官网：http://web.stanford.edu/class/cs143/
 
 或者直接:  wget https://courses.edx.org/asset-v1:StanfordOnline+SOE.YCSCS1+1T2020+type@asset+block@student-dist.tar.gz
 
-
+pa也被我上传到了master分支下：https://github.com/Ceris3s/CS143_Compilers/tree/master
 
 
 
